@@ -97,3 +97,18 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Firebase configuration and credentials
+.firebaserc
+firebase-debug.log
+firebase-emu-backup/
+
+# Firebase emulator files
+.firebase/
+firebase_config.json
+serviceAccountKey.json
+
+# Firebase build and deployment
+.firebaserc
+.firebase/
+firebase-functions/node_modules/
