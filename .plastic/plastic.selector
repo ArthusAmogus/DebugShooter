@@ -1,0 +1,4 @@
+repository "GD5Project/DEBUG the game@18968061352672@cloud"
+  path "/"
+    br "/main"
+    co "/main"

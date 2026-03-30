@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03e9cda4b6af18442a28361cae864410, type: 3}
+  m_Name: Potent Healing Herb
+  m_EditorClassIdentifier: 
+  Name: Potent Healing Herb
+  itemID: 5
+  Icon: {fileID: 21300000, guid: b5e7408b18afeb8438fb46fd2b2a1804, type: 3}
+  itemType: 0
+  Description: A healing herb further concentrated after dipping it with a chemical
+    mixture to further enhance its healing properties. Heals 500HP to player.
+  MaterialsNeeded:
+  - item: {fileID: 11400000, guid: 6761d5ab6f2ce3d40a59596105382530, type: 2}
+    amount: 3
+  - item: {fileID: 11400000, guid: ebe52b9e516b36f47844610e4c7cd18a, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: 6071dcad23c4a684c87aef567d3cfd80, type: 2}
+    amount: 2
+  CraftQuantity: 1
+  HealAmount: 500

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 197fb7c7dc997354caf39921c8c97f28, type: 3}
+  m_Name: MetalScrap
+  m_EditorClassIdentifier: 
+  Name: Metal Scrap
+  itemID: 0
+  Icon: {fileID: 21300000, guid: 482b44d860f0c3644a5ae716c5c75eb6, type: 3}
+  itemType: 1
+  Description: A rustic piece of metallic alloy that seemed to be scrapped from run
+    down facilities. It mostly made out of 62% iron, 27% copper, and 11% gold or
+    in some cases, tungsten.
+  MaterialsNeeded: []
+  CraftQuantity: 0
